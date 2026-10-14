@@ -8,6 +8,12 @@
 
 你应该考虑鼓励支持 Sinytra Connector 或者 Kilt 之类的优质项目，不是这个 AI 垃圾。
 
+## 今日资讯
+- 龙门币兑摩拉特价汇率
+- 投资内存条
+- [棍木木棍](https://www.bilibili.com/video/BV1GJ411x7h7/)
+- RayT-RT 首次体验 Forbric！被吓到眩晕瘫坐，那一刻就像看到原子弹爆炸
+
 ## 它能做什么
 
 Minecraft 的 mod 分三种，通常你只能选其中一种。每个 mod 都是为 **Fabric**、**Forge** 或 **NeoForge** 中的某一个做的，而且只能在它对应的那一个上运行。把 Fabric mod 放进 Forge 游戏里，什么也不会发生。所以大多数人会同时维护好几套互相独立的环境，而不管启动哪一套，大部分 mod 都躺在另外几套里。

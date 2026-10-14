@@ -2,11 +2,17 @@
 
 English | [简体中文](README.zh-CN.md)
 
-**One Minecraft instance that runs Fabric mods, Forge mods and NeoForge mods at the same time.**
+**Three Minecraft instance that runs Fabric mods, Forge mods and NeoForge mods at the different time.**
 
 Version 0.3.0 · Minecraft 26.2
 
 You should consider support and cheer for Sinytra Connector, Kilt or other similar projects, not this AI slop.
+
+## Spam News
+- Discounted exchange rate for Lungmen Dollars to Mora
+- investment-grade RAM
+- [(BIG NEWS) SIX SEVEN](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+- RayT-RT's first time with Forbric! Scared dizzy and slumped to the ground — like witnessing an atomic bomb blast.
 
 ## What it does
 

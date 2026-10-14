@@ -1,10 +1,12 @@
-# Forbric
+# Forbric Pillow Remix
 
 English | [简体中文](README.zh-CN.md)
 
 **One Minecraft instance that runs Fabric mods, Forge mods and NeoForge mods at the same time.**
 
 Version 0.3.0 · Minecraft 26.2
+
+You should consider support and cheer for Sinytra Connector, Kilt or other similar projects, not this AI slop.
 
 ## What it does
 

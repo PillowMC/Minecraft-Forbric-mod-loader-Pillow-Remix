@@ -2,7 +2,7 @@
 
 [English](README.md) | 简体中文
 
-**一个 Minecraft 实例，同时运行 Fabric mod、Forge mod 和 NeoForge mod。**
+**三个 Minecraft 实例，异时运行 Fabric mod、Forge mod 和 NeoForge mod。**
 
 版本 0.3.0 · Minecraft 26.2
 

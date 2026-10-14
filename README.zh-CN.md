@@ -1,10 +1,12 @@
-# Forbric
+# Forbric Pillow Remix
 
 [English](README.md) | 简体中文
 
 **一个 Minecraft 实例，同时运行 Fabric mod、Forge mod 和 NeoForge mod。**
 
 版本 0.3.0 · Minecraft 26.2
+
+你应该考虑鼓励支持 Sinytra Connector 或者 Kilt 之类的优质项目，不是这个 AI 垃圾。
 
 ## 它能做什么
 
